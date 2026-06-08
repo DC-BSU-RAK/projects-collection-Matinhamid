@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\drawable_modal_background.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\drawable\\modal_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.socialbattery.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.socialbattery.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\drawable_result_background.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\drawable\\result_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\layout_info_modal.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\layout\\info_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.2\\com.example.socialbattery.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

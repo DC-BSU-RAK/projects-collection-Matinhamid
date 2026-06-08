@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-mergeDebugResources-36:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-mergeDebugResources-36:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.aura.app-mergeDebugResources-36:/layout/fragment_home.xml",
+        "source": "com.aura.app-main-39:/layout/fragment_home.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Battery</string>
+    <string name="display_placeholder">Tap activities to add them…</string>
+    <string name="result_empty">⚠️ Add at least one activity first.</string>
+</resources>

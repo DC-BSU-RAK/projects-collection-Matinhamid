@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.aura.app-merged_res-37:/layout_fragment_home.xml.flat",
+        "source": "com.aura.app-main-39:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\drawable_shape_aura_circle.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\drawable\\shape_aura_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-merged_res-37:\\drawable_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\Khati\\.gradle\\daemon\\8.5\\com.aura.app-main-39:\\drawable\\ic_app_icon.xml"
+    }
+]
